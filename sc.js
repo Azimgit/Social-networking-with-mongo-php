@@ -1,0 +1,11 @@
+	 $("#myform").ajaxForm({
+	 	beforeSend:function(){
+	 		$(".progress").show();
+	 	},
+	 	uploadProgress:function(e,position,total,percentComplete){
+	 		$(".progress-bar").width(percentComplete+'%');
+	 		$(".sr-only").html(percentComplete+'%');
+	 	},
+	 	success:function(){},
+	 	Complete:function(){}
+	 });

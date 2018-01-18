@@ -1,0 +1,75 @@
+/*#tog{
+	border: solid ;
+			margin-top: 60px;
+			margin-left: 1100px;
+			height: 100px;
+			width: 250px;	
+			z-index: 1;	
+			background-color: green;
+
+		}*/
+
+/*#togle1:after{
+	border: 1px solid;
+	background-color: green;
+	height: 30px;
+	width: 30px;
+	position: absolute;
+	content: '';
+	right: 40px;
+	transform: rotate(45deg);
+	top: 70px;
+
+
+ 
+
+}*/
+#logform{
+	float: right;
+margin-top: 60px;
+}
+#togleindiv
+{
+	border:solid;border-radius:70px;float:left;margin-right: 30px;height:60px;width: 60px; margin-top:0px;
+}
+
+
+#postbar{
+height: 100px;
+width: 400px;
+border: solid;
+position: relative;
+margin-left: 100px;
+top: 100px;
+
+
+}
+.post_pic{
+	
+float: left;
+margin-right: 300px;
+height: 30px;
+width:60px;
+margin-bottom: 30px;	
+border-radius: 60px;
+
+
+}
+.btn btn-primary{
+	margin-left: 200px;
+	margin-bottom: 10px;
+	float: right;
+}
+.text{
+	margin-bottom:40px;
+float: left;
+	margin-left: 100px;
+	height: 50px;	
+
+}
+#log{
+
+}
+
+
+
