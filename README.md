@@ -1,6 +1,6 @@
 # project_php_mongo
 project_php
-the project caontain the file  
+The project contain the files 
 Requirement  to be installed 
 Mongodb 
 xampp 
