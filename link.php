@@ -43,6 +43,6 @@ else{
  echo "<a href='chat.php?id=$a' style='left:100px;position:relative;'>chat with user</a>";
 ?>
 
-
+//comment
 
 </div>
