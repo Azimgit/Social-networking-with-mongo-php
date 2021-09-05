@@ -21,8 +21,8 @@ $get=$_GET["id"];
     $unlike=$row["unlike"];
 $type = pathinfo($file,PATHINFO_EXTENSION);}
 
-?>
-	
+?>   
+//this is sample comment 	
 
 ?>
 <div   style="border:solid crimson;margin-top: 100px;left:100px;position: absolute; width:auto;">
